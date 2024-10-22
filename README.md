@@ -28,7 +28,9 @@ If you want to grab the relevant version of the `copia` package (v. 0.1.5) direc
 
 
 ## Persistent archiving
-Releases of this repository are sustainably mirrored on [Zenodo](https://zenodo.org/), ensuring long-term archival access to this material. Please consider citing the accompanying paper if you re-use this code for academic purposes. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13969373.svg)](https://doi.org/10.5281/zenodo.13969373)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13969373.svg)](https://doi.org/10.5281/zenodo.13969373)
+
+Releases of this repository are sustainably mirrored on [Zenodo](https://zenodo.org/), ensuring long-term archival access to this material. Please consider citing the accompanying paper if you re-use this code for academic purposes. 
 
 ## License
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
